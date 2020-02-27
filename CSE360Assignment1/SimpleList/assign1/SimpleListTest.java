@@ -4,7 +4,7 @@
  * The testSimpleListAdd and testSimpleListRemove were giving me problems, but everything else had successful tests. 
  */
 
-package assign1;
+package assign2;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.jupiter.api.Assertions.*;
