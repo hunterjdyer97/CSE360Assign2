@@ -4,7 +4,7 @@
  * There are different methods that can modify the list, such as adding, removing, or searching the list. 
  */
 
-package assign2;
+package cse360assign2;
 
 /**
  * @author Hunter
